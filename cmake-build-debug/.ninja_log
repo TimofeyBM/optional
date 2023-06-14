@@ -1,0 +1,16 @@
+# ninja log v5
+1	1076	7084370487964272	build.ninja	de62d7d4845024f
+1	4348	7084370579071725	_deps/googletest-build/googlemock/CMakeFiles/gmock.dir/src/gmock-all.cc.obj	53839cd4161ad90b
+6	9238	7084370628023389	_deps/googletest-build/googletest/CMakeFiles/gtest.dir/src/gtest-all.cc.obj	66d9516b8c9d4be
+9240	11470	7084370650520283	lib/libgtest.a	6b6db8b0d0376f05
+11470	11781	7084370653641052	lib/libgmock.a	a8edb1787695d1a9
+10	8141	7084371471588091	_deps/googletest-build/googletest/CMakeFiles/gtest_main.dir/src/gtest_main.cc.obj	875d6739b39c05b5
+8141	8683	7084371476889092	lib/libgtest_main.a	3be599a52e31ea9
+3	10640	7084371497446104	CMakeFiles/example_tests.dir/example_test.cpp.obj	d0259186363d3b7b
+10641	15000	7084371541143543	example_tests.exe	7aa8f1d9effb1050
+10641	15000	7084371541143543	example_tests[1]_tests.cmake	7aa8f1d9effb1050
+10641	15000	7084371541143543	C:/Users/borod_fu6d0w3/CLionProjects/untitled2/cmake-build-debug/example_tests[1]_tests.cmake	7aa8f1d9effb1050
+5	6479	7084415475065742	CMakeFiles/example_tests.dir/example_test.cpp.obj	d0259186363d3b7b
+6479	10626	7084415516573431	example_tests.exe	7aa8f1d9effb1050
+6479	10626	7084415516573431	example_tests[1]_tests.cmake	7aa8f1d9effb1050
+6479	10626	7084415516573431	C:/Users/borod_fu6d0w3/CLionProjects/untitled2/cmake-build-debug/example_tests[1]_tests.cmake	7aa8f1d9effb1050

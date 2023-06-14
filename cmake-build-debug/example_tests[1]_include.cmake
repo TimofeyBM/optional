@@ -1,0 +1,5 @@
+if(EXISTS "C:/Users/borod_fu6d0w3/CLionProjects/untitled2/cmake-build-debug/example_tests[1]_tests.cmake")
+  include("C:/Users/borod_fu6d0w3/CLionProjects/untitled2/cmake-build-debug/example_tests[1]_tests.cmake")
+else()
+  add_test(example_tests_NOT_BUILT example_tests_NOT_BUILT)
+endif()
